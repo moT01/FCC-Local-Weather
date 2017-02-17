@@ -1,0 +1,47 @@
+body{
+  background-color: #000;
+  font-family: Comic Sans MS;
+}
+
+.wrapall{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 0px 40px 0px;
+  max-width: 300px;
+  background-color: #888;
+  border-radius: 20px; 
+  border-width: 1px;
+  border-color: black; 
+  border-style: solid; 
+  box-shadow: 8px 8px 5px #555; }
+
+.title {
+  text-align: center; }
+
+.tempwrap {
+  text-align: center; }
+
+.temp{
+  font-size: 40pt; 
+  display: inline; }
+
+.temp:hover {
+  cursor: pointer; }
+
+#units {
+  font-size: 15pt; 
+  display: inline; }
+
+#units:hover {
+  cursor: pointer; }
+
+.conditions{
+  padding: 20px 0px 30px 0px;
+  text-align: center; }
+
+#icon{
+  width: 30%;
+  height: 30%; }
+
+.city{
+  text-align: center; }
