@@ -1,6 +1,6 @@
 ## FCC-Local-Weather
 ##### Local Weather Project for [freecodecamp.com](https://www.freecodecamp.com/challenges/show-the-local-weather)
-##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Local-Weather/blob/master/index.html)
+##### Check it out [here](https://mot01.github.io/FCC-Local-Weather/)
 
 <br/>
 <br/>
