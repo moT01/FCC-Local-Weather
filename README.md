@@ -19,4 +19,4 @@
 - CSS
 - JavaScript
 - jQuery
-- [Open Weather Map] (https://openweathermap.org/) API
+- [Open Weather Map](https://openweathermap.org/) API
