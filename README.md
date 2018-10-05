@@ -1,5 +1,5 @@
 ## FCC-Local-Weather
-##### Local Weather Project for [freecodecamp.com](https://www.freecodecamp.com/challenges/show-the-local-weather)
+##### Local Weather Project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Local-Weather/)
 
 <br/>
@@ -19,3 +19,4 @@
 - CSS
 - JavaScript
 - jQuery
+- [Open Weather Map] (https://openweathermap.org/) API
